@@ -1,0 +1,5 @@
+<launch>
+  <!-- RViz -->
+  <node pkg="rviz" type="rviz" name="rviz" args="-d /home/workspace/ROS-Projects/where_am_i/catkin_ws/src/mcl.rviz"/>
+
+</launch>
